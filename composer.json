@@ -1,0 +1,29 @@
+{
+  "type": "library",
+  "license": "proprietary",
+  "require": {
+    "php": "^7.1.7",
+    "symfony/console": "^4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    },
+    "sort-packages": true,
+    "classmap-authoritative": true,
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Ihsan\\OnlinePajak\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Ihsan\\OnlinePajak\\Tests\\": "tests/"
+    }
+  }
+}
