@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Ihsan\OnlinePajak\Test;
+namespace KejawenLab\Pajak\PPH21\Test;
 
-use Ihsan\OnlinePajak\FirstRateTaxCalculator;
-use Ihsan\OnlinePajak\FourthRateTaxCalculator;
-use Ihsan\OnlinePajak\SecondRateTaxCalculator;
-use Ihsan\OnlinePajak\TaxCalculator;
-use Ihsan\OnlinePajak\ThirdRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\FirstRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\FourthRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\SecondRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\TaxCalculator;
+use KejawenLab\Pajak\PPH21\ThirdRateTaxCalculator;
 use PHPUnit\Framework\TestCase;
 
 /**

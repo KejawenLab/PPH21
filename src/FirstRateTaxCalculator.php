@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ihsan\OnlinePajak;
+namespace KejawenLab\Pajak\PPH21;
 
 /**
  * @author Muhamad Surya Iksanudin <surya.iksanudin@gmail.com>

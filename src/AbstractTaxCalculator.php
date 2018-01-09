@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ihsan\OnlinePajak;
+namespace KejawenLab\Pajak\PPH21;
 
 use Symfony\Component\Console\Output\OutputInterface;
 

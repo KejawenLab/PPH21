@@ -2,11 +2,11 @@
 
 require 'vendor/autoload.php';
 
-use Ihsan\OnlinePajak\TaxCalculator;
-use Ihsan\OnlinePajak\FirstRateTaxCalculator;
-use Ihsan\OnlinePajak\SecondRateTaxCalculator;
-use Ihsan\OnlinePajak\ThirdRateTaxCalculator;
-use Ihsan\OnlinePajak\FourthRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\TaxCalculator;
+use KejawenLab\Pajak\PPH21\FirstRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\SecondRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\ThirdRateTaxCalculator;
+use KejawenLab\Pajak\PPH21\FourthRateTaxCalculator;
 use Symfony\Component\Console\Output\ConsoleOutput;
 
 $output = new ConsoleOutput();

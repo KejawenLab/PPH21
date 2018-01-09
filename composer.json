@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Ihsan\\OnlinePajak\\": "src/"
+      "KejawenLab\\Pajak\\PPH21\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Ihsan\\OnlinePajak\\Tests\\": "tests/"
+      "KejawenLab\\Pajak\\PPH21\\Tests\\": "tests/"
     }
   }
 }
