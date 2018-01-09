@@ -1,6 +1,14 @@
 {
   "type": "library",
   "license": "proprietary",
+  "name": "kejawenlab/pph21",
+  "authors": [
+    {
+      "name": "Muhamad Surya Iksanudin",
+      "email": "surya.iksanudin@gmail.com",
+      "homepage": "https://github.com/KejawenLab/PPH21"
+    }
+  ],
   "require": {
     "php": "^7.1.7",
     "symfony/console": "^4.0"
