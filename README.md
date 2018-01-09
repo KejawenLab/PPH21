@@ -1,21 +1,21 @@
-#Tax Calculator
+# Tax Calculator
 
 This calculator use [Strategy Pattern](http://designpatternsphp.readthedocs.io/en/latest/Behavioral/Strategy/README.html) to make it flexible, extendable, and robust.
 
-## How to install
+## How to build
 
-```php
+```bash
 composer update --prefer-dist -vvvv
 ```
 
-## Run Test
+## Run Testing
 
-```php
+```bash
 php vendor/bin/phpunit
 ```
 
-## Run index
+## Starting App
 
-```php
+```bash
 php index.php
 ```
