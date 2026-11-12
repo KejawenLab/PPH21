@@ -11,7 +11,7 @@ class FirstRateTaxCalculator extends AbstractTaxCalculator
 {
     public function maxPtkp(): float
     {
-        return 50000000;
+        return 60000000;
     }
 
     public function minPtkp(): float

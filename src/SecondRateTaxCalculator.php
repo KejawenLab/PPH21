@@ -16,7 +16,7 @@ class SecondRateTaxCalculator extends AbstractTaxCalculator
 
     public function minPtkp(): float
     {
-        return 50000000;
+        return 60000000;
     }
 
     public function taxPercentage(): float

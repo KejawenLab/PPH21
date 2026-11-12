@@ -11,7 +11,7 @@ class FourthRateTaxCalculator extends AbstractTaxCalculator
 {
     public function maxPtkp(): float
     {
-        return 10000000000000;
+        return 5000000000;
     }
 
     public function minPtkp(): float
